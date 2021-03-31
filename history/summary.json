@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/be3-dashboard-web.web.app",
     "slug": "be3-dashboard",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 103,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
-    "dailyMinutesDown": {
-      "2021-03-26": 0
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 181,
+    "timeDay": 142,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TCP ping",
@@ -30,13 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 46,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
-    "dailyMinutesDown": {
-      "2021-03-26": 0
-    }
+    "time": 78,
+    "timeDay": 59,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
+    "dailyMinutesDown": {}
   }
 ]
