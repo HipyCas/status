@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Tindefc (Netlify)",
+    "url": "https://tindefc.netlify.app",
+    "icon": "https://favicons.githubusercontent.com/tindefc.netlify.app",
+    "slug": "tindefc-netlify",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "TCP ping",
     "url": "1.1.1.1",
     "icon": "https://favicons.githubusercontent.com/null",
