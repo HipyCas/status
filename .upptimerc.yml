@@ -6,10 +6,13 @@ repo: status # Your GitHub repository name
 sites:
   - name: Be3 Dashboard
     url: https://be3-dashboard-web.web.app
+    icon: https://icon.horse/icon/be3-dashboard-web.web.app
   - name: Tindefc (Netlify)
     url: https://tindefc.netlify.app
+    icon: https://icon.horse/icon/tindefc.netlify.app
   - name: TCP ping
     url: 1.1.1.1
+    icon: https://icon.horse/icon/github.com
 
 assignees:
   - HipyCas
