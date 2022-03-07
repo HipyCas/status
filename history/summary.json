@@ -22,7 +22,7 @@
     "url": "https://tindefc.netlify.app",
     "icon": "https://icon.horse/icon/tindefc.netlify.app",
     "slug": "tindefc-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 22,
-    "timeWeek": 96,
+    "timeWeek": 86,
     "timeMonth": 147,
     "timeYear": 170,
     "dailyMinutesDown": {}
