@@ -40,7 +40,7 @@
     "url": "1.1.1.1",
     "icon": "https://icon.horse/icon/github.com",
     "slug": "tcp-ping",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 71,
     "timeDay": 123,
-    "timeWeek": 85,
+    "timeWeek": 86,
     "timeMonth": 73,
     "timeYear": 70,
     "dailyMinutesDown": {}
