@@ -22,17 +22,17 @@
     "url": "https://tindefc.netlify.app",
     "icon": "https://icon.horse/icon/tindefc.netlify.app",
     "slug": "tindefc-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 111,
-    "timeWeek": 574,
-    "timeMonth": 378,
-    "timeYear": 249,
+    "time": 254,
+    "timeDay": 1616,
+    "timeWeek": 829,
+    "timeMonth": 459,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "time": 71,
     "timeDay": 40,
     "timeWeek": 78,
-    "timeMonth": 78,
+    "timeMonth": 79,
     "timeYear": 70,
     "dailyMinutesDown": {}
   }
